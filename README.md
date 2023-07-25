@@ -49,7 +49,7 @@ Here're some of the project's best features:
 <h2>💻 Built with</h2>
 
 <p align="center">
-  <a href=#><img src="https://skillicons.dev/icons?i=git,py,flask,html,css,js" /></a>
+  <picture><img src="https://skillicons.dev/icons?i=git,py,flask,html,css,js" /></picture>
 </p>
 
 
