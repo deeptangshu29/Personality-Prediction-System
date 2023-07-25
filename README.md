@@ -21,7 +21,7 @@ Here're some of the project's best features:
 *   <picture><img src="https://cdn-icons-png.flaticon.com/512/4729/4729465.png" width=3%></picture>     **Over 80% Accuracy**
 
 *   **Big Five Personality Trait Model**
-    <p align="center"><a href=# /><img src="https://embrace-autism.com/wp-content/uploads/diagram-BigFive-OCEAN.svg" width="80%"></p>
+    <p align="center"><picture><img src="https://embrace-autism.com/wp-content/uploads/diagram-BigFive-OCEAN.svg" width="80%"></picture></p>
 
 <br/>
 <br/>
