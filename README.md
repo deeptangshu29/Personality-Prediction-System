@@ -4,7 +4,7 @@
 <p align="center">
 The Personality Prediction System is a cutting-edge application that employs machine learning techniques to predict an individual's personality based on their responses to a questionnaire. The system focuses on evaluating an individual's personality traits using the widely accepted Big Five model.
   <br/><br/>
-  <img src="https://socialify.git.ci/deeptangshu29/Personality-Prediction-System/image?description=1&amp;descriptionEditable=Discover%20Your%20true%20self%20with%20our%20advanced%20Personality%20Prediction%20System.&amp;font=Jost&amp;forks=1&amp;issues=1&amp;language=1&amp;logo=https%3A%2F%2Fgithub.com%2Fdeeptangshu29%2FPersonality-Prediction-System%2Fassets%2F74810289%2Fc0dad6e5-5099-4743-a81a-65ae7cab33e3&amp;name=1&amp;pattern=Charlie%20Brown&amp;stargazers=1&amp;theme=Auto" alt="project-image">
+  <picture><img src="https://socialify.git.ci/deeptangshu29/Personality-Prediction-System/image?description=1&amp;descriptionEditable=Discover%20Your%20true%20self%20with%20our%20advanced%20Personality%20Prediction%20System.&amp;font=Jost&amp;forks=1&amp;issues=1&amp;language=1&amp;logo=https%3A%2F%2Fgithub.com%2Fdeeptangshu29%2FPersonality-Prediction-System%2Fassets%2F74810289%2Fc0dad6e5-5099-4743-a81a-65ae7cab33e3&amp;name=1&amp;pattern=Charlie%20Brown&amp;stargazers=1&amp;theme=Auto" alt="project-image"></picture>
 </p>
 
 
